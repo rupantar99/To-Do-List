@@ -5,7 +5,7 @@
 
 .container{
   /* background: linear-gradient(to right bootom, #e1b382, #c89666); */
-  background-image: -webkit-linear-gradient(65deg, #7a8fce 50%, #bbc5ed 50%);
+  background-image: -webkit-linear-gradient(65deg, #7d92ce 50%, #bbc5ed 50%);
   width : 100%;
   min-height: 100vh;
   display: flex;
